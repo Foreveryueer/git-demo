@@ -5,5 +5,6 @@ public class Test {
         System.out.println("hhhhhhhhhhhh");
         System.out.println("hello git");
         System.out.println("push commit");
+        System.out.println("pull test");
     }
 }
